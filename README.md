@@ -12,7 +12,7 @@ This mainly follows the `"Reachable"` procedure in
 To run the code, try
 ```
 cd src
-python dsep.py < ../tests/dsep/test1.in
+python dsep.py
 ```
 The program assumes that we have the bayesian network depicted below
 ![Alt text](https://github.com/kai-pinckard/bayes-net/blob/master/Screenshot%20from%202019-03-02%2011-05-51.png?raw=true "Network")
