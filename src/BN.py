@@ -82,11 +82,11 @@ class BN(object):
         """
         Visualize the current graph.
         """
-        print "Bayes Network:"
+        print("Bayes Network:")
         for nname, node in self.nodes.iteritems():
-            print "\tNode " + nname
-            print "\t\tParents: " + str(node.parents.keys())
-            print "\t\tChildren: " + str(node.children.keys())
+            print("\tNode " + nname)
+            print("\t\tParents: " + str(node.parents.keys()))
+            print("\t\tChildren: " + str(node.children.keys()))
 
     def find_obs_anc(self, observed):
         """
