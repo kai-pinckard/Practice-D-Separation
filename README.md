@@ -7,7 +7,7 @@ python dsep.py
 
 Please note that additional, information will be printed by the repo at runtime.
 ```
-![Alt text](https://github.com/kai-pinckard/bayes-net/blob/master/Screenshot%20from%202019-03-02%2011-45-32.png?raw=true"Network")
+!(https://github.com/kai-pinckard/Practice-D-Separation/blob/master/Screenshot%20from%202019-03-02%2011-45-32.png)
 
 ```
 
