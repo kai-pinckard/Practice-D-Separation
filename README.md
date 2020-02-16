@@ -6,9 +6,6 @@ To run the code, try:
 python dsep.py
 
 Please note that additional, information will be printed by the repo at runtime.
-```
-!(https://github.com/kai-pinckard/Practice-D-Separation/blob/master/Screenshot%20from%202019-03-02%2011-45-32.png)
-
-```
+!(https://github.com/kai-pinckard/Practice-D-Separation/blob/master/Screenshot%20from%202019-03-02%2011-45-32.png
 
 A big thanks to lingxuez for creating most of the code that enabled me to make this study tool.
